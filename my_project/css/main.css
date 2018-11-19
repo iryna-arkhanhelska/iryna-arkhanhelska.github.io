@@ -102,7 +102,7 @@ margin: 4em 0;
 position: relative;
 }
 .terminy h1{
-color:#F97300;
+color:#ed1a3a;
 margin: 2em;
 }
 .terminy .box{
@@ -200,7 +200,7 @@ margin: 4em 0;
 position: relative;
 }
 .blog h1{
-color:#F97300;
+color:#ed1a3a;
 margin: 2em;
 }
 .blog .card{
@@ -221,14 +221,14 @@ margin: 4em 0;
 position: relative;
 }
 .team h1{
-color:#F97300;
+color:#ed1a3a;
 margin: 2em;
 }
 .team .item{
 position: relative;
 }
 .team .des{
-background: #F97300;
+background: #ed1a3a;
 color: #fff;
 text-align: center;
 border-bottom-left-radius: 93%;
@@ -242,13 +242,13 @@ position: relative;
 }
 .contact-form h1{
 padding:2em 1px;
-color: #F97300;
+color: #ed1a3a;
 }
 .contact-form .right{
 max-width: 600px;
 }
 .contact-form .right .btn-secondary{
-background: #F97300;
+background: #ed1a3a;
 color: #fff;
 border:0;
 }
